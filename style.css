@@ -7,10 +7,15 @@
     width: 100%;
 }
 
+.message-wrapper {
+   margin-top: 1rem;
+}
+
 .message {
     font-family: 'Caveat', cursive;
 }
 
 .date {
     font-family: 'Caveat', cursive;
+    margin-bottom: 1rem;
 }
