@@ -6,3 +6,11 @@
     height: 100vh;
     width: 100%;
 }
+
+.message {
+    font-family: 'Caveat', cursive;
+}
+
+.date {
+    font-family: 'Caveat', cursive;
+}
